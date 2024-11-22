@@ -1,0 +1,13 @@
+pygame
+pytest
+PyAutoGUI
+pygetwindowpygame
+pyscreeze
+opencv-python
+
+
+
+# Uncomment the below section only if required
+
+#black # Reformating the files
+#pyobjc # Required only for MacOS
